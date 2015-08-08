@@ -10,3 +10,12 @@
 3.Using Git Bash with GitHub
 4.Git Windows Client
 5.Overview of Branching, Merging, Cloning, Forking
+
+3. Git and GitHub Version Control Tutorial - Part 3 Time to get into the meat of Git... how do you use to Git to manage a project with multiple developers. 
+1.Overview of Branching, Cloning, Pulling, and Merging
+2.Demo of it on Git Bash
+3.Same demo on Windows Git
+4.Intro into Forking
+5.Demo of Forking and a Pull Request
+6.Overview of Part 4
+
