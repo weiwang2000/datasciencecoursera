@@ -19,3 +19,11 @@
 5.Demo of Forking and a Pull Request
 6.Overview of Part 4
 
+4. Git and GitHub Version Control Tutorial - Part 4 Time to cover some advance topics
+1.Merge Conflicts
+2.Git Tagging
+3.Previous commit
+4.Final thoughts
+5.Congrats, you are done!
+
+What a great learning experience!
