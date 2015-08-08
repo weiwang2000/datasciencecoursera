@@ -29,3 +29,5 @@
 What a great learning experience!
 
 Thank you.
+
+shortcuts
