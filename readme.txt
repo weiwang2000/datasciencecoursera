@@ -31,3 +31,12 @@ What a great learning experience!
 Thank you.
 
 shortcuts
+
+
+$ git init [make the fold into get repository]
+$ git add .
+$ git status
+$ git commit -m "message"
+$ git log
+
+$ git remote add origin[add remote repository]  [add gethub remote repository path] /git@github.com:weiwang2000/Practice.git
